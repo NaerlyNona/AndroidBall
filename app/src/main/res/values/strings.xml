@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ball</string>
+  <string name="app_name">BallGame</string>
     <string name="balldroid">BallDroid</string>
     <string name="play">Play</string>
     <string name="options">Options ?</string>
